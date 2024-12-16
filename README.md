@@ -41,7 +41,7 @@ A passionate programmer who loves learning and solving problems. I enjoy working
 - Advanced Programming Methods
 - Conputer Networks Concept
 ---
-
+<!--
 ### 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
@@ -49,7 +49,8 @@ A passionate programmer who loves learning and solving problems. I enjoy working
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
 
 ---
-
+-->
+<!--
 ### 🏆 **Projects I'm Proud Of**
 1. **Project Name** 🌟  
    Description of the project goes here.  
@@ -58,6 +59,7 @@ A passionate programmer who loves learning and solving problems. I enjoy working
    Another project description.
 
 ---
+-->
 
 ### 📫 **Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/cristian-strugari-130b841a9/)
