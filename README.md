@@ -11,10 +11,18 @@ A passionate programmer who loves learning and solving problems. I enjoy working
 ### 🚀 **My Tech Stack**
 
 #### **Programming Languages**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Assembly x86](https://img.shields.io/badge/Assembly%20x86-525252?style=flat&logo=assembler&logoColor=white)
+
+
+
 
 #### **Frameworks & Tools**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -29,7 +37,9 @@ A passionate programmer who loves learning and solving problems. I enjoy working
 - Data Structures & Algorithms 💻  
 - Problem Solving 🚀  
 - **OOP** and **Version Control (Git)**
-
+- Logic and Functional Programming
+- Advanced Programming Methods
+- Conputer Networks Concept
 ---
 
 ### 📊 **GitHub Stats**
