@@ -2,9 +2,9 @@
 
 ## Hi, I'm Cristi ✨
 
-🎓 **Computer Science Student** | 💻 **Tech Enthusiast**
+🎓 **Cloud Engineer at P3** | 💻 **Tech Enthusiast**
 
-A passionate programmer who loves learning and solving problems. I enjoy working on web/app development, data science, and other software development projects.
+A passionate programmer who loves learning and solving problems. I enjoy working on cloud/web/app development, data science, and other software development projects.
 
 ---
 
